@@ -1,0 +1,18 @@
+2025-02-26 11:32:01,513 - __main__ - INFO - Starting bot...
+2025-02-26 11:32:09,180 - __main__ - INFO - No existing embeddings found. Creating new embeddings...
+2025-02-26 11:32:38,006 - __main__ - INFO - Product embeddings created and saved for 12040 books.
+2025-02-26 11:32:38,008 - __main__ - INFO - Bot initialized successfully with 12040 books.
+2025-02-26 11:32:38,941 - __main__ - INFO - Bot started successfully!
+2025-02-26 11:33:27,114 - __main__ - INFO - Original search topic: .NET
+2025-02-26 11:33:27,114 - __main__ - INFO - Search terms: ['.net']
+2025-02-26 11:33:29,975 - __main__ - INFO - Found 49 matching books
+2025-02-26 11:33:34,420 - __main__ - INFO - Original search topic: java
+2025-02-26 11:33:34,420 - __main__ - INFO - Search terms: ['java']
+2025-02-26 11:33:37,322 - __main__ - INFO - Found 237 matching books
+2025-02-26 11:33:45,445 - __main__ - INFO - Original search topic: machine learning
+2025-02-26 11:33:45,446 - __main__ - INFO - Search terms: ['machine learning', 'ml']
+2025-02-26 11:33:51,279 - __main__ - INFO - Found 443 matching books
+2025-02-26 12:36:28,678 - __main__ - INFO - Original search topic: Blockchain
+2025-02-26 12:36:28,679 - __main__ - INFO - Search terms: ['blockchain']
+2025-02-26 12:36:31,734 - __main__ - INFO - Found 118 matching books
+2025-02-26 13:06:53,029 - __main__ - INFO - Bot resources cleaned up successfully
